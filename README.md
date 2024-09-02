@@ -5,5 +5,5 @@
 <br> 
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{gahyunseoul}"/>
+  <img src="https://render.gitanimals.org/farms/{seom9}"/>
 </a>
